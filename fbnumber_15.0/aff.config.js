@@ -1,0 +1,1 @@
+export const affConfig={REF:'702291'};
